@@ -1,11 +1,13 @@
+import Logo from "./components/Logo";
+
 function App() {
   return (
     <div>
-      <header>
-        Travel list
-      </header>
+      <Logo />
     </div>
   );
 }
+
+
 
 export default App;
